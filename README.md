@@ -17,5 +17,5 @@ make           # buduje do build/app(.exe)
 # Windows (PowerShell):
 # .\build\app.exe
 ```
-test
+
 Oczekiwane wyjście (na starcie, przed poprawkami): suma oraz zakończenie programu.
